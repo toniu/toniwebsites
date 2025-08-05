@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Next.js
+.next/
+
+# Tailwind CSS
+tailwind.config.js
+
+# dotenv environment variables
+.env
+
+# OS-specific files
+.DS_Store
